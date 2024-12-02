@@ -118,6 +118,11 @@ This repository serves as a blueprint for:
 
 ---
 
+### **📧 Contact**
+- 👤 **Author**: Habeeb Abdulrasaq
+  
+- 📩 **Email**: [habeebabdulrasaq@gmail.com](mailto:habeebabdulrasaq@gmail.com)
+
 ### **🤝 Contributing**
 Contributions are welcome!  
 
