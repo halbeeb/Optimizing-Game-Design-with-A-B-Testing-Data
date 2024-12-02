@@ -74,16 +74,6 @@ Monetization Score = (Purchases × Average Purchase Value) / 10
 
 ---
 
-## **🚀 How to Use**
-
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/halbeeb/Optimizing-Game-Design-with-A-B-Testing-Data.git
-cd Optimizing-Game-Design-with-A-B-Testing-Data
-
-pip install -r requirements.txt```
-
-
 ### **The Notebook Will:**
 - Analyze engagement and monetization metrics.
 - Visualize test results.
