@@ -81,49 +81,58 @@ Monetization Score = (Purchases × Average Purchase Value) / 10
 git clone https://github.com/halbeeb/Optimizing-Game-Design-with-A-B-Testing-Data.git
 cd Optimizing-Game-Design-with-A-B-Testing-Data
 
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
-3. Run the Analysis
-Open and run Optimizing Game Design with Data.ipynb to:
 
-Analyze metrics.
-Visualize test results.
-Generate actionable insights.
-🔍 Key Insights and Findings
-Monetization Score (Primary Metric)
-Control Mean: 1.98
-Test Mean: 2.31
-Improvement: Significant (Z-Score: 4.60, p-value: 0.000002)
-Engagement Score (Secondary Metric)
-Control Mean: 46.65
-Test Mean: 48.79
-Improvement: Significant (Z-Score: 39.92, p-value: 0.000000)
-Takeaway: The new mechanics significantly improved both engagement and monetization metrics, confirming their effectiveness in creating a more engaging and profitable game experience.
+### **The Notebook Will:**
+- Analyze engagement and monetization metrics.
+- Visualize test results.
+- Generate actionable insights.
 
-📈 Visualizations
-The repository includes rich visualizations to make insights clear and accessible:
+---
 
-Histograms: Engagement and monetization score distributions.
-Boxplots: Compare metrics across genders and groups.
-Correlation Heatmaps: Highlight relationships between metrics.
+### **🔍 Key Insights and Findings**
 
-🌟 Purpose and Future Scope
+#### **Monetization Score** *(Primary Metric)*  
+- **Control Mean**: 1.98  
+- **Test Mean**: 2.31  
+- **Improvement**: Significant (Z-Score: 4.60, p-value: 0.000002)
+
+#### **Engagement Score** *(Secondary Metric)*  
+- **Control Mean**: 46.65  
+- **Test Mean**: 48.79  
+- **Improvement**: Significant (Z-Score: 39.92, p-value: 0.000000)
+
+### **Takeaway**:  
+The new mechanics significantly improved both engagement and monetization metrics, confirming their effectiveness in creating a more engaging and profitable game experience.
+
+---
+
+### **📈 Visualizations**
+The repository includes rich visualizations for clarity:
+- **Histograms**: Engagement and monetization score distributions.
+- **Boxplots**: Compare metrics across genders and groups.
+- **Correlation Heatmaps**: Highlight relationships between metrics.
+
+---
+
+### **🌟 Purpose and Future Scope**
 This repository serves as a blueprint for:
+1. Game developers seeking to balance **player retention** with **revenue generation**.
+2. Product managers optimizing in-game features using **data-driven decisions**.
+3. Data scientists applying **A/B testing** to dynamic user environments.
 
-Game developers seeking to balance player retention with revenue generation.
-Product managers optimizing in-game features using data-driven decisions.
-Data scientists applying A/B testing to dynamic user environments.
-Future Enhancements
-Implement behavioral segmentation to tailor mechanics to casual and competitive players.
-Conduct longer-term tests to assess the sustainability of improvements.
-Explore machine learning for predictive analytics in player behavior.
-🤝 Contributing
-Contributions are welcome!
+#### **Future Enhancements**
+- Implement behavioral segmentation to tailor mechanics to casual and competitive players.
+- Conduct longer-term tests to assess the sustainability of improvements.
+- Explore machine learning for predictive analytics in player behavior.
 
-Fork the repository.
-Create a new branch: git checkout -b feature-name.
-Submit a pull request with a detailed explanation of your changes.
-📧 Contact
-👤 Author: Habeeb Abdulrasaq
-📩 Email: habeebabdulrasaq@gmail.com
-   
+---
+
+### **🤝 Contributing**
+Contributions are welcome!  
+
+1. Fork the repository.  
+2. Create a new branch:  
+   ```bash
+   git checkout -b feature-name
