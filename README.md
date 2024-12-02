@@ -1,7 +1,7 @@
 # 🎮 **Optimizing Game Design with A/B Testing**  
 > *Striking the perfect balance between player engagement and monetization through data-driven insights.*
 
-![Game Design Banner](https://via.placeholder.com/1000x300.png?text=Optimizing+Game+Design+with+A/B+Testing)  
+![Game Design Banner](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IS00buhshxqeatedy29MPw.png)
 
 ---
 
